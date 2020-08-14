@@ -16,3 +16,7 @@ TODO
 ## Model
 
 At least 3 [getstream activity feeds](https://getstream.io/activity-feeds/): website, issue, and user
+
+## Open Questions
+
+How to support live updates on issue detail and taskboard pages?
