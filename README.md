@@ -15,4 +15,4 @@ TODO
 
 ## Model
 
-TODO
+At least 3 feeds: website, issue, and user
