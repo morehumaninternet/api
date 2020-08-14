@@ -15,4 +15,4 @@ TODO
 
 ## Model
 
-At least 3 feeds: website, issue, and user
+At least 3 [getstream activity feeds](https://getstream.io/activity-feeds/): website, issue, and user
